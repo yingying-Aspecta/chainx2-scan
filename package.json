@@ -25,3 +25,7 @@
     "react-intl": "^2.8.0"
   }
 }
+{
+  "dependencies":
+  "react-intl"
+}
