@@ -14199,3 +14199,5 @@ yup@^0.27.0:
     property-expr "^1.5.0"
     synchronous-promise "^2.0.6"
     toposort "^2.0.2"
+toposort "^2.0.2"
+synchronous-promise"~.0.6"
